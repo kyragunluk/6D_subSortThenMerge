@@ -1,1 +1,1 @@
-# hw6D_subSortThenMerge
+# 6D_subSortThenMerge
